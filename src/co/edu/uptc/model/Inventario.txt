@@ -1,0 +1,15 @@
+D1, Calle 123
+Producto1, ARROZ, 10, 5000.0, 0
+Producto2, FRIJOL, 5, 3000.0, 0
+---
+D2, Avenida 456
+Producto3, LENTEJAS, 20, 6000.0, 0
+Producto4, AZUCAR, 15, 3500.0, 0
+---
+D3, Calle 789
+Producto5, PASTA, 45, 2500.0, 0
+Producto6, ACEITE, 30, 1500.0, 0
+---
+D4, GLORIETA
+12assa, helado, 10, 12000.0, 5
+---
